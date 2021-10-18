@@ -1,1 +1,1 @@
-# WD-assignment-2 :Museum candy project
+# WD-assignment-2 :Museum of candy project
